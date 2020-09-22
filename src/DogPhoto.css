@@ -4,6 +4,10 @@ img {
   margin: 20px 0;
 }
 
+button {
+  font-size: large;
+}
+
 .image-container {
   width: 400px;
   margin: auto;
