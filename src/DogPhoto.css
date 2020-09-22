@@ -1,0 +1,16 @@
+img {
+  height: 400px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
+
+.image-container {
+  width: 400px;
+  margin: auto;
+  padding: 100px 0;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
